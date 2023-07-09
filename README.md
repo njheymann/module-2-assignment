@@ -22,3 +22,13 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Screenshots
 
+![m2a1](https://github.com/njheymann/module-2-assignment/assets/125000756/168674e8-df44-4079-a6b4-5760b58b2ed3)
+![m2a2](https://github.com/njheymann/module-2-assignment/assets/125000756/8be788e9-f0e5-4a6f-bcce-cd2f64126437)
+![m2a3](https://github.com/njheymann/module-2-assignment/assets/125000756/3e19fc6f-b031-42ae-bc2f-484066cec689)
+
+
+## Repository URL
+https://github.com/njheymann/module-2-assignment
+
+## Deployed site
+https://njheymann.github.io/module-2-assignment/#work
